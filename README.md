@@ -2,12 +2,17 @@
     <img src="https://github.com/yloh-net/Wiki/blob/main/workflows/readme-header.png" width="546" alt="ylohwiki"/> 
     <br />
     <p>
+ <a href="https://discord.gg/tendo"><img src="https://img.shields.io/discord/743972591827419157.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2 "></a>
+        <img src="https://github.com/yloh-net/Wiki/blob/main/workflows/badge.svg" alt="CI">
+
+[![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://tterb.github.io)
+
 
 </div>
 
 Yloh is a project supervised by [Tendo](https://github.com/TendoXT) aiming to offer different discord bots as well as a Minecraft launcher followed by different open source projects.
 
-# Project Activity
+# [Project](https://github.com/Yeikzy/EasyDiscordBot) Activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/3c0256c33ea69e2ac3e7836223eb8ea35e7e1945.svg "Repobeats analytics image")
 
