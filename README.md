@@ -3,6 +3,8 @@
     <br />
     <p>
 
+</div>
+
 Yloh is a project supervised by [Tendo](https://github.com/TendoXT) aiming to offer different discord bots as well as a Minecraft launcher followed by different open source projects.
 
 # Project Activity
