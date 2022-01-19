@@ -11,13 +11,19 @@
 
 </div>
 
+# Yloh
+
 Yloh is a project supervised by [Tendo](https://github.com/TendoXT) aiming to offer different discord bots as well as a Minecraft launcher followed by different open source projects.
+
+# How to contribute ?
+
+Currently Yloh offers a system to involve this community for the contribution to the project! For this follow the [link below](https://github.com/yloh-net/Wiki/blob/main/CONTRIBUTING.md).
 
 # [Project](https://github.com/Yeikzy/EasyDiscordBot) Activity
 
 ![Alt](https://repobeats.axiom.co/api/embed/3c0256c33ea69e2ac3e7836223eb8ea35e7e1945.svg "Repobeats analytics image")
 
-# Contributors
+# Yloh Team
 
 Thanks goes to these wonderful people
 
