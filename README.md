@@ -21,7 +21,7 @@ Currently Yloh offers a system to involve this community for the contribution to
 
 # [Project](https://github.com/Yeikzy/EasyDiscordBot) Activity
 
-![Alt](https://repobeats.axiom.co/api/embed/3c0256c33ea69e2ac3e7836223eb8ea35e7e1945.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
 
 # Yloh Team
 
