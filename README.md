@@ -16,7 +16,7 @@
 - [How To contribute](https://github.com/yloh-net/Wiki/blob/main/README.md#how-to-contribute-)
 - [Project Activity](https://github.com/yloh-net/Wiki/blob/main/README.md#project-activity)
 - [Yloh Team](https://github.com/yloh-net/Wiki/blob/main/README.md#yloh-team)
-- Licensing
+- [Licensing](https://github.com/yloh-net/Wiki/blob/main/README.md#licensing)
 
 # How to contribute ?
 
