@@ -14,6 +14,9 @@
 # Table of Contents
 
 - How To contributute
+- Project Activity
+- Yloh Team
+- Licensing
 
 # How to contribute ?
 
