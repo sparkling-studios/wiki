@@ -31,7 +31,7 @@ Here are all the available commands in the bot!
 
 # Project Activity
 
-![Alt](https://repobeats.axiom.co/api/embed/3c0256c33ea69e2ac3e7836223eb8ea35e7e1945.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
 
 # Contributors
 
