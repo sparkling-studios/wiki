@@ -9,7 +9,9 @@
     </p>
 </div>
 
-Here is the music bot proposed by the Yloh development team and entirely developed by Yeikzy, the bot is easy to use because it does not have any prefix; you simply have to use the slash commands to put in music.
+* * *
+
+Here is the music bot proposed by the Yloh development team and entirely developed by [Yeikzy](https://github.com/Yeikzy), the bot is easy to use because it does not have any prefix; you simply have to use the slash commands to put in music.
 
 # Commands
 
