@@ -11,6 +11,10 @@
 
 </div>
 
+# Table of Contents
+
+- How To contributute
+
 # How to contribute ?
 
 Our Yloh project offers you to contribute to the Wiki of the one if and thus to be rewarded on our discord server, for this we invite you to read the file [CONTRIBUTING.md](https://github.com/yloh-net/Wiki/blob/main/CONTRIBUTING.md) which will help you to contribute to the program of Yloh.
