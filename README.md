@@ -13,7 +13,7 @@
 
 # Table of Contents
 
-- How To contributute
+- [How To contribute](https://github.com/yloh-net/Wiki/blob/main/README.md#how-to-contribute-)
 - Project Activity
 - Yloh Team
 - Licensing
