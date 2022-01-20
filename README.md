@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://github.com/yloh-net/Wiki/blob/main/workflows/readme-header.png" width="546" alt="ylohwiki"/> 
+    <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/readme-header.png" width="546" alt="ylohwiki"/> 
     <br />
     <p>
  <a href="https://discord.gg/tendo"><img src="https://img.shields.io/discord/743972591827419157.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2 "></a>
-        <img src="https://github.com/yloh-net/Wiki/blob/main/workflows/badge.svg" alt="CI">
+        <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/badge.svg" alt="CI">
         <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a><br>
 
 [![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://tterb.github.io)
@@ -45,5 +45,5 @@ All packages released under MIT.
 ```
 
 <p align="center">
-        <img src="https://github.com/yloh-net/YlohSong/blob/main/workflows/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/Bottom.svg" alt="Github Stats" />
 </p>
