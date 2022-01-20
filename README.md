@@ -14,7 +14,7 @@
 # Table of Contents
 
 - [How To contribute](https://github.com/yloh-net/Wiki/blob/main/README.md#how-to-contribute-)
-- Project Activity
+- [Project Activity](https://github.com/yloh-net/Wiki/blob/main/README.md#project-activity)
 - Yloh Team
 - Licensing
 
