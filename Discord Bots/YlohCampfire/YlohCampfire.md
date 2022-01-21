@@ -16,7 +16,7 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
 
-# Campfire Team Dev
+# Developer of Yloh Campfire
 
 Thanks goes to these wonderful people
 
