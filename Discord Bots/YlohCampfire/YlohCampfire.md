@@ -12,7 +12,7 @@
 
 * * *
 
-# Contributors
+# Campfire Team Dev
 
 Thanks goes to these wonderful people
 
