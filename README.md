@@ -8,7 +8,7 @@
         <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/Status-Active-green.svg" alt="StatusActive">
         <a href="https://twitter.com/ylohsupport"><img src="https://img.shields.io/badge/Follow-%40ylohsupport-blue.svg?style=flat&logo=twitter"></a> 
 
-[![GitHub watchers](https://img.shields.io/github/watchers/yloh-net/Wiki.svg?style=social&label=Watch)](https://github.com/yloh-net/Wiki) [![GitHub stars](https://img.shields.io/github/stars/yloh-net/Wiki.svg?style=social&label=Stars)](https://github.com/yloh-net/Wiki)          
+[![GitHub Fork](https://img.shields.io/github/forks/yloh-net/wiki?style=social)](https://github.com/yloh-net/Wiki) [![GitHub stars](https://img.shields.io/github/stars/yloh-net/Wiki.svg?style=social&label=Stars)](https://github.com/yloh-net/Wiki)          
 
  <br>
 
