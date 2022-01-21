@@ -11,3 +11,27 @@
 </div>
 
 * * *
+
+# Contributors
+
+Thanks goes to these wonderful people
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+        <td align="center"><a href="https://github.com/TendoXT"><img src="https://avatars.githubusercontent.com/u/75258316?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tendo</b></sub></a><br /><a href="https://github.com/yloh-net/YlohSong" title="Code">💻</a> <a href="#ideas-tendo" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/yloh-net/YlohSong/pulls" title="Tests">⚠️</a></td>    
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+# Licensing 
+```
+Copyright (c) 2022 Yloh 
+All packages released under MIT.
+```
