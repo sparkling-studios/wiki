@@ -52,6 +52,14 @@ Thanks goes to these wonderful people
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+# Supporter Plan
+
+Wiki is an open source project that has been made possible due to the generous contributions by community backers. If you are interested in supporting this project, please consider [becoming a sponsor on github](https://github.com/sponsors/yloh-net) or on the Discord server [Tendo's Academy](https://mee6.gg/m/743972591827419157)
+
+[![Become a Sponsor](https://img.shields.io/badge/donate-github-ea4aaa.svg?style=popout&logo=github)](https://github.com/sponsors/yloh-net)
+
+
+
 # Licensing 
 ```
 Copyright (c) 2022 Yloh 
