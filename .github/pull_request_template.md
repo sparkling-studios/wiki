@@ -1,5 +1,5 @@
-### Quel est votre identifiant Discord ?
-Entrez votre ID ici
+### What is your Discord ID ?
+Enter your ID here
 
-### Décrivez rapidement vos ajouts ou changements
-Entrez votre description ici
+### Quickly describe your additions or changes
+Enter your description here
