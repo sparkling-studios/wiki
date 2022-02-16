@@ -29,10 +29,6 @@
 
 Our Yloh project offers you to contribute to the Wiki of the one if and thus to be rewarded on our discord server, for this we invite you to read the file [CONTRIBUTING.md](https://github.com/yloh-net/Wiki/blob/main/CONTRIBUTING.md) which will help you to contribute to the program of Yloh.
 
-# [Project](https://github.com/Yeikzy/EasyDiscordBot) Activity
-
-![Alt](https://repobeats.axiom.co/api/embed/15556c445712dbddf3baa88a4950db1faf8e6e69.svg "Repobeats analytics image")
-
 # Yloh Team
 
 Thanks goes to these wonderful people
