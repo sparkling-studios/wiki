@@ -60,7 +60,7 @@ Wiki is an open source project that has been made possible due to the generous c
 # Licensing 
 ```
 Copyright (c) 2022 Yloh 
-All packages released under MIT.
+All packages released under Apache.
 ```
 
 <p align="center">
