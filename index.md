@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<div align="center">
+    <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/readme-header.png" width="546" alt="ylohwiki"/> 
+    <br />
+    <p>
+ <a href="https://discord.gg/tendo"><img src="https://img.shields.io/discord/743972591827419157.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2 "></a>
+        <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/badge.svg" alt="CI">
+        <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+        <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/Status-Active-green.svg" alt="StatusActive">
+        <a href="https://twitter.com/ylohsupport"><img src="https://img.shields.io/badge/Follow-%40ylohsupport-blue.svg?style=flat&logo=twitter"></a> 
 
-You can use the [editor on GitHub](https://github.com/yloh-net/wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![GitHub stars](https://img.shields.io/github/stars/yloh-net?style=social)](https://github.com/yloh-net/Wiki)          
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ <br>
 
-### Markdown
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* * *
 
-```markdown
-Syntax highlighted code block
+# Table of Contents
 
-# Header 1
-## Header 2
-### Header 3
+- [How To contribute](https://github.com/yloh-net/Wiki/blob/main/README.md#how-to-contribute-)
+- [Project Activity](https://github.com/yloh-net/Wiki/blob/main/README.md#project-activity)
+- [Yloh Team](https://github.com/yloh-net/Wiki/blob/main/README.md#yloh-team)
+- [Licensing](https://github.com/yloh-net/Wiki/blob/main/README.md#licensing)
 
-- Bulleted
-- List
+* * *
 
-1. Numbered
-2. List
+# How to contribute ?
 
-**Bold** and _Italic_ and `Code` text
+Our Yloh project offers you to contribute to the Wiki of the one if and thus to be rewarded on our discord server, for this we invite you to read the file [CONTRIBUTING.md](https://github.com/yloh-net/Wiki/blob/main/CONTRIBUTING.md) which will help you to contribute to the program of Yloh.
 
-[Link](url) and ![Image](src)
+# Yloh Team
+
+Thanks goes to these wonderful people
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/TendoXT"><img src="https://avatars.githubusercontent.com/u/75258316?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tendo</b></sub></a><br /><a href="https://github.com/yloh-net/YlohSong" title="Code">💻</a> <a href="#example-Tendo" title="Examples">💡</a> <a href="#ideas-tendo" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/yloh-net/YlohSong/pulls" title="Tests">⚠️</a></td>    
+<td align="center"><a href="https://github.com/Yeikzy"><img src="https://avatars.githubusercontent.com/u/48528776?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yeikzy</b></sub></a><br /><a href="https://github.com/yloh-net/YlohSong" title="Code">💻</a> <a href="https://github.com/yloh-net/YlohSong/pulls" title="Tests">⚠️</a> <a href="#tutorial-Yeikzy" title="Tutorials">✅</a></td>
+<td align="center"><a href="https://github.com/Miche-Desti"><img src="https://avatars.githubusercontent.com/u/91158131?v=4" width="100px;" alt=""/><br /><sub><b>Miche</b></sub></a><br /><a href="https://github.com/Miche-Desti/EasyDiscordBot" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+# Supporter Plan
+
+Wiki is an open source project that has been made possible due to the generous contributions by community backers. If you are interested in supporting this project, please consider [becoming a sponsor on github](https://github.com/sponsors/yloh-net) or on the Discord server [Tendo's Academy](https://mee6.gg/m/743972591827419157)
+
+[![Become a Sponsor](https://img.shields.io/badge/donate-github-ea4aaa.svg?style=popout&logo=github)](https://github.com/sponsors/yloh-net)
+
+
+
+# Licensing 
+```
+Copyright (c) 2022 Yloh 
+All packages released under Apache.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yloh-net/wiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="center">
+        <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/Bottom.svg" alt="Github Stats" />
+</p>
