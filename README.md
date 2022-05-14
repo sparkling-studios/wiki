@@ -2,12 +2,10 @@
     <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/readme-header.png" width="546" alt="ylohwiki"/> 
     <br />
     <p>
- <a href="https://discord.gg/tendo"><img src="https://img.shields.io/discord/743972591827419157.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2 "></a>
-        <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-        <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/Status-Active-green.svg" alt="StatusActive">
-        <a href="https://twitter.com/ylohsupport"><img src="https://img.shields.io/badge/Follow-%40ylohsupport-blue.svg?style=flat&logo=twitter"></a> 
-
-[![GitHub stars](https://img.shields.io/github/stars/yloh-net?style=social)](https://github.com/yloh-net/Wiki)          
+        <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/yloh-net/wiki" alt="License: MIT"></a>
+           <img src="https://img.shields.io/github/stars/yloh-net/wiki"/>
+   <img src="https://img.shields.io/github/forks/yloh-net/wiki"/>
+        <a href="https://twitter.com/ylohsupport"><img src="https://img.shields.io/badge/Follow-%40ylohsupport-blue.svg?style=flat&logo=twitter"></a>       
 
  <br>
 
@@ -61,7 +59,3 @@ Wiki is an open source project that has been made possible due to the generous c
 Copyright (c) 2022 Yloh 
 All packages released under Apache.
 ```
-
-<p align="center">
-        <img src="https://github.com/yloh-net/Wiki/blob/main/.github/workflows/Bottom.svg" alt="Github Stats" />
-</p>
