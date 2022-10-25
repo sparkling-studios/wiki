@@ -5,7 +5,7 @@
         <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/yloh-net/wiki" alt="License: MIT"></a>
            <img src="https://img.shields.io/github/stars/yloh-net/wiki"/>
    <img src="https://img.shields.io/github/forks/yloh-net/wiki"/>
-        <a href="https://twitter.com/ylohsupport"><img src="https://img.shields.io/badge/Follow-%40ylohsupport-blue.svg?style=flat&logo=twitter"></a>       
+        <a href="https://twitter.com/studio_yloh"><img src="https://img.shields.io/badge/Follow-%40ylohsupport-blue.svg?style=flat&logo=twitter"></a>       
 
  <br>
 
